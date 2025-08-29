@@ -1,16 +1,15 @@
-# ami
+# Ami – Your Accountability Companion 🤍
 
-A new Flutter project.
+**Ami** is a minimalist Flutter app that supports individuals recovering from addiction by providing a safe, personal space for daily check-ins, journaling, motivational tools, and streak tracking. Whether you're managing urges, celebrating progress, or bouncing back from setbacks — Ami is here for you, every day.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Key Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ✅ **Daily check-ins** – Log if you stayed clean today
+- 🔥 **Streak tracker** – Celebrate progress and reset without shame
+- 📝 **Journal entries** – Reflect privately and stay mindful
+- 💡 **Motivational quotes** – Gentle encouragement every day
+- 🧘 **Urge management toolkit** – Delay timer, breathing prompts, affirmations
+- ⏰ **Daily reminders** – Stay consistent with notifications
+- 💾 **Offline-first** – All data stored locally, no account required
